@@ -1,0 +1,24 @@
+{
+  "name": "02.Apacha",
+  "version": "1.0.0",
+  "description": "静态资源服务器_基于node",
+  "main": "app.js",
+  "dependencies": {
+    "mime": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AutumnFish/Apacha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AutumnFish/Apacha/issues"
+  },
+  "homepage": "https://github.com/AutumnFish/Apacha#readme"
+}
